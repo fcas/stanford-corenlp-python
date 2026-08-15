@@ -1,0 +1,7 @@
+[project]
+name = "stanford-corenlp-python"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+    "nltk>=3.10.3",
+]
